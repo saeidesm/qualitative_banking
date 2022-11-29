@@ -18,7 +18,7 @@
      7. Class: {B,NB}
 
 Internal Risks: 	
-i.Industry risk (IR) : 
+<br>i.Industry risk (IR) : 
 	Government policies and International agreements, 
 	Cyclicality, 
 	Degree of competition,				
@@ -27,7 +27,7 @@ i.Industry risk (IR) :
 	The sensitivity to changes in macroeconomic factors,
 	Domestic and international competitive power, 
 	Product Life Cycle.
-ii.Management risk(MR): 
+<br>ii.Management risk(MR): 
 	Ability and competence of management, 
 	Stability of management,
 	The relationship between management/ owner, 
@@ -35,19 +35,19 @@ ii.Management risk(MR):
 	Growth process/business performance, 
 	Short and long term business planning, 
 	achievement and feasibility. 
-iii.Financial Flexibility(FF): 
+<br>iii.Financial Flexibility(FF): 
 	Direct financing, 
 	Indirect financing, 
 	Other financing 
-iv.Credibility (CR):  
+<br>iv.Credibility (CR):  
 	Credit history,  
 	reliability of information, 
 	The relationship with financial institutes.
-v.Competitiveness (CO):  
+<br>v.Competitiveness (CO):  
 	Market position, 
 	The level of core capacities, 
 	Differentiated strategy, 
-vi.Operating Risk (OP):  
+<br>vi.Operating Risk (OP):  
 	The stability and diversity of procurement, 
 	The stability of transaction, 
 	The efficiency of production, 
