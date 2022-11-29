@@ -19,34 +19,39 @@
 
 Internal Risks: 	
 <br>i.Industry risk (IR) : 
-	Government policies and International agreements, 
-	Cyclicality, 
-	Degree of competition,				
-	The price and stability of market supply,
-	The size and growth of market demand,	
-	The sensitivity to changes in macroeconomic factors,
-	Domestic and international competitive power, 
-	Product Life Cycle.
+	* Government policies and International agreements, 
+	* Cyclicality, 
+	* Degree of competition,				
+	* The price and stability of market supply,
+	* The size and growth of market demand,	
+	* The sensitivity to changes in macroeconomic factors,
+	* Domestic and international competitive power, 
+	* Product Life Cycle.
+	
 <br>ii.Management risk(MR): 
-	Ability and competence of management, 
-	Stability of management,
+	* Ability and competence of management, 
+	* Stability of management,
 	The relationship between management/ owner, 
 	Human resources management, 
 	Growth process/business performance, 
 	Short and long term business planning, 
 	achievement and feasibility. 
+	
 <br>iii.Financial Flexibility(FF): 
 	Direct financing, 
 	Indirect financing, 
 	Other financing 
+	
 <br>iv.Credibility (CR):  
 	Credit history,  
 	reliability of information, 
 	The relationship with financial institutes.
+	
 <br>v.Competitiveness (CO):  
 	Market position, 
 	The level of core capacities, 
 	Differentiated strategy, 
+	
 <br>vi.Operating Risk (OP):  
 	The stability and diversity of procurement, 
 	The stability of transaction, 
