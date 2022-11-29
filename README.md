@@ -7,7 +7,7 @@
  
 5. Number of Attributes: 6, each corresponding to Qualitative Parameters in Bankruptcy
  
-6. Attribute Information: (P=Positive,A-Average,N-negative,B-Bankruptcy,NB-Non-Bankruptcy)
+6. **Attribute Information:** (P = Positive, A = Average, N = negative, B = Bankruptcy, NB = Non-Bankruptcy)
  
      1. Industrial Risk: {P,A,N}
      2. Management Risk: {P,A,N}
@@ -17,8 +17,7 @@
      6. Operating Risk: {P,A,N}
      7. Class: {B,NB}
 
-Internal Risks:
-
+  **Internal Risks:**
 <br>i. Industry risk (IR) : 
 * Government policies and International agreements, 
 * Cyclicality, 
