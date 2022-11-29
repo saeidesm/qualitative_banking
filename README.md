@@ -19,7 +19,7 @@
 
 Internal Risks: 	
 <br>i.Industry risk (IR) : 
-	* Government policies and International agreements, 
+	*Government policies and International agreements, 
 	* Cyclicality, 
 	* Degree of competition,				
 	* The price and stability of market supply,
